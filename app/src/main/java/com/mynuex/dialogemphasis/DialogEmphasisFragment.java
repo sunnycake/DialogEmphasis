@@ -97,7 +97,7 @@ public class DialogEmphasisFragment extends DialogFragment {
             results = results.toUpperCase();
         }
         if(checkedItems[1]){
-            results += "!!!!";
+            results += "!!!";
         }
         if(checkedItems[2]){
             results += " (^_^)";
